@@ -10,8 +10,8 @@
       )
     v-col.flex.text-center.my-auto(:cols="2")
       w-icon.ml-3(
-        :height="36"
-        :width="36"
+        :height="45"
+        :width="45"
         :icon-name="'message-circle-outline'"
         :icon-fill="this.$vuetify.theme.themes.light.secondary"
         @click=""
